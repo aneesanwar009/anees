@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/salem-dispatch/static/css/main.2e9ae91e.chunk.css",
+    "main.js": "/salem-dispatch/static/js/main.7c008ed3.chunk.js",
+    "main.js.map": "/salem-dispatch/static/js/main.7c008ed3.chunk.js.map",
+    "runtime-main.js": "/salem-dispatch/static/js/runtime-main.47bd488e.js",
+    "runtime-main.js.map": "/salem-dispatch/static/js/runtime-main.47bd488e.js.map",
+    "static/css/2.91a96053.chunk.css": "/salem-dispatch/static/css/2.91a96053.chunk.css",
+    "static/js/2.a5c61e77.chunk.js": "/salem-dispatch/static/js/2.a5c61e77.chunk.js",
+    "static/js/2.a5c61e77.chunk.js.map": "/salem-dispatch/static/js/2.a5c61e77.chunk.js.map",
+    "static/js/3.7f83cfb4.chunk.js": "/salem-dispatch/static/js/3.7f83cfb4.chunk.js",
+    "static/js/3.7f83cfb4.chunk.js.map": "/salem-dispatch/static/js/3.7f83cfb4.chunk.js.map",
+    "index.html": "/salem-dispatch/index.html",
+    "static/css/2.91a96053.chunk.css.map": "/salem-dispatch/static/css/2.91a96053.chunk.css.map",
+    "static/css/main.2e9ae91e.chunk.css.map": "/salem-dispatch/static/css/main.2e9ae91e.chunk.css.map",
+    "static/js/2.a5c61e77.chunk.js.LICENSE.txt": "/salem-dispatch/static/js/2.a5c61e77.chunk.js.LICENSE.txt",
+    "static/media/1.8963a1f2.png": "/salem-dispatch/static/media/1.8963a1f2.png",
+    "static/media/2.0de0ee93.png": "/salem-dispatch/static/media/2.0de0ee93.png",
+    "static/media/3.61e6aa0b.png": "/salem-dispatch/static/media/3.61e6aa0b.png",
+    "static/media/4.6c747893.png": "/salem-dispatch/static/media/4.6c747893.png",
+    "static/media/5.665a0129.png": "/salem-dispatch/static/media/5.665a0129.png",
+    "static/media/6.9f009f25.png": "/salem-dispatch/static/media/6.9f009f25.png",
+    "static/media/7.e0b4476c.png": "/salem-dispatch/static/media/7.e0b4476c.png",
+    "static/media/8.b5c3f0e4.png": "/salem-dispatch/static/media/8.b5c3f0e4.png",
+    "static/media/App.css": "/salem-dispatch/static/media/testimonials-bg.7d88caf6.jpg",
+    "static/media/call.7eb448fb.svg": "/salem-dispatch/static/media/call.7eb448fb.svg",
+    "static/media/logo.7efcc79a.png": "/salem-dispatch/static/media/logo.7efcc79a.png",
+    "static/media/me.a889e9a2.png": "/salem-dispatch/static/media/me.a889e9a2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47bd488e.js",
+    "static/css/2.91a96053.chunk.css",
+    "static/js/2.a5c61e77.chunk.js",
+    "static/css/main.2e9ae91e.chunk.css",
+    "static/js/main.7c008ed3.chunk.js"
+  ]
+}
