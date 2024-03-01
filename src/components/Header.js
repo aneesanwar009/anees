@@ -11,12 +11,7 @@ const Header = () => {
         <h1>SALEM DISPATCH</h1>
         <div className="main-text">
           
-        <h3> 
-         
-          At Salam Dispatch, we go above and beyond to provide you with exceptional services. As your personal dispatcher, we offer 24/7 support, negotiate top paying rates, and even assist with quick payment percentages. We handle all the paperwork, check broker's credit scores, and provide fuel advance options to keep you on the road. 
-          
-         
-        </h3>
+        
         </div>
         <Typed
           className="typed-text"
@@ -37,9 +32,7 @@ const Header = () => {
         />
 
         <div className="main-text">
-        <h3>
-        Our dedicated team is here to offer driver director assistance and handle detention issues. With our comprehensive collection of services, you can focus on what you do best – driving – while we take care of the rest.
-        </h3>
+       
         </div>
         <div className="header-btns">
         <div className="hire_btn_blink--container ">
